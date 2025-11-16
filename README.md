@@ -17,3 +17,30 @@ This project uses news articles from *The Guardian – Technology* section and c
 
 ---
 
+## ⚙️ **Features**
+
+### ✅ Ethical Web Scraping
+- Full robots.txt compliance  
+- Custom User-Agent  
+- Safe request rate (delay between requests)  
+- Extraction of title, author, date & article body  
+
+### 🧹 Text Cleaning
+- Remove advertisements & boilerplate text  
+- Remove HTML artifacts  
+- Whitespace normalization  
+- Basic regex-based cleanup  
+
+### ✂️ Preprocessing
+- Tokenization using NLTK  
+- Lowercasing  
+- Sentence segmentation  
+- Vocabulary extraction  
+
+### 📊 Language Analysis
+- Word count  
+- Vocabulary size  
+- Avg sentence length  
+- Top frequent meaningful words  
+
+---
